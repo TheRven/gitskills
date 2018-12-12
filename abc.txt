@@ -1,6 +1,2 @@
 aaaaa
-<<<<<<< HEAD
-you and me
-=======
-you and me
->>>>>>> feature1
+you are mine

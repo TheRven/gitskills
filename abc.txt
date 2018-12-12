@@ -1,2 +1,6 @@
 aaaaa
-you & me
+<<<<<<< HEAD
+you and me
+=======
+you and me
+>>>>>>> feature1
